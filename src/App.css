@@ -1,10 +1,15 @@
-* {
-  margin: 5px;
-  padding-top: 2px;
 
-}
 
 .status {
   font-weight: bold
 }
 
+.square {
+  background: white;
+  border: 1px solid black;
+  height: 40px;
+  width: 40px;
+  margin-right: -1px;
+  margin-top: -1px;
+  border-spacing: 20px;
+}

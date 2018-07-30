@@ -1,6 +1,8 @@
 import React from 'react'
-import Board from './Board'
 import './App.css'
+import Board from './Board'
+
+
 
 class Game extends React.Component {
   render() {
