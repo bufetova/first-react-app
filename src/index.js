@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Game from './App'
+import Game from './Game'
 import './index.css'
 import registerServiceWorker from './registerServiceWorker'
 
