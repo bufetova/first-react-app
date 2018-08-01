@@ -7,25 +7,27 @@
 
 .game-info {
   margin-left: 20px;
+  font-size: 20px;
+  font-weight: bold;
 }
 
 li {
   list-style-type: none;
   margin-left: -40px;
-  padding-bottom: 2px;
+  padding-bottom: 1px;
 }
 
 .square {
   background: white;
   border: 1px solid black;
-  height: 40px;
-  width: 40px;
+  height: 60px;
+  width: 60px;
   margin-right: -1px;
   margin-top: -1px;
   border-spacing: 20px;
   float: left;
   font-weight: bold;
-  font-size: 16px;
+  font-size: 40px;
 }
 
 .square:focus {
